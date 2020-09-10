@@ -1,0 +1,5 @@
+jerusalem:lat=31.77,long=35.21
+tel aviv:lat=32.10,long=34.85
+haifa:lat=32.79,long=34.98
+rehovot:lat=31.89 ,long=34.80
+beer sheva:lat=31.25 ,long=34.79
